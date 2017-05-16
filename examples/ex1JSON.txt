@@ -1,5 +1,7 @@
 {
 	"name":"Jade of Iearthia",
 	"age":"Unknown",
-	"DOB":"10/27"
+	"DOB":"10/27",
+	"test":["apple","banana"],
+	"asdf":{"apple":"a"}
 }

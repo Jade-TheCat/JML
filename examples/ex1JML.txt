@@ -1,3 +1,10 @@
-.name("Jade of Iearthia")
-.age("Unknown")
-.dob("10/27")
+OBJ:ex1JSON(
+
+	.test[apple; banana]
+	.DOB(10/27)
+	.name(Jade of Iearthia)
+	.OBJ:asdf(
+		.apple(a)
+	)
+	.age(Unknown)
+)
